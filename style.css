@@ -14,12 +14,11 @@ body {
     display: flex;
     justify-content: space-around;
     align-items: center;
-padding: 24px 0;
+    padding: 24px 0;
 
 
-}.
-.cabecalho-imagem {
-    width: 10%;
 }
 
-
+. .cabecalho-imagem {
+    width: 10%;
+}
