@@ -15,6 +15,11 @@ body {
     justify-content: space-around;
     align-items: center;
 padding: 24px 0;
+
+
+}.
+cabecalho-imagem {
+    width: 10%;
 }
 
 
