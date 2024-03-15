@@ -27,4 +27,5 @@ body {
     display: block; 
     margin: 0 16px;
     font-size: 24px;
+    text-transform: uppercase;
 }
